@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(0, 0, 61);
+    color:rgb(232, 227, 227);
+}
+
+hr {
+    border: 2px solid white;
+}
+
+footer {
+    font-weight: bold;
+}
+
+a {
+    color: rgb(232, 227, 227);
+}
+
+section {
+    margin: 0;
+
+}
+
+.inner li {
+    list-style: circle;
+    text-transform: lowercase;
+}
+
+li.sub {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
